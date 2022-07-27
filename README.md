@@ -7,7 +7,7 @@ MYSQL (newest version)
 Navicat (not required, but can easily manage the database)
 
 ### Main purpose
-
+Learn how to use java to build websites and establish links with built databases.
 
 Setup & Run:
 1.	Download the all required software and install them.

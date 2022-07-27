@@ -1,0 +1,15 @@
+Major features (implemented): 
+So far, we have implemented the basic user system, and simple user interface of login, create account, 
+and welcome page. The login system will not change in the future, but we may improve the design of user 
+interface.
+
+1.	Information database: We set up a database to manage the information of manager and users of our 
+	webpage. These two includes the essential information for manager and user account, like name, 
+	password, email, phone number ect. 
+2.	User log in system: If user do not have an account, they need to first create one, and the new 
+	account will be recorded in the database. User can not create manager account. Then user can login 
+	their account by input user name and password. The system will match the input information in the 
+	database, and will output message for error matching. In addition, user can click their profile to enter 
+	the user center, in here, they can check their own information.
+3.	Verify code: verify code is to prevent the robot account. We think it is useful to protect and manage our
+	 web.

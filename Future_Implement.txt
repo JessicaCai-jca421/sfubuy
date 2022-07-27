@@ -1,0 +1,7 @@
+Milestones (future implement):
+We prefer to implement the basic product page and category. Hence, we can create database with full information that record the category of each product (may use cid as key). We then will implement the searching bar, we may improve the association function in the next iteration, we now want the basic searching function. Then we will create cart function with relevant database, hence user can add product into their cart, we may not implement the order function in this iter.
+1.	Product function: This allows user to show their second-hand book with essential information. We will carefully arrangement the webpage structure and avoid messy user interface.
+2.	Category: This will show relevant product in specific category.
+3.	Search bar: Allow user to search for book with key word.
+4.	Cart: Allow user to add book into their cart.
+

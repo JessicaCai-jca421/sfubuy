@@ -1,5 +1,6 @@
 # SFUBUY
 
+
 ## Description
 
 This is a used textbook trading site for students. The main functions include user registration and login, product upload, administrator filtering products, database storage.
@@ -13,6 +14,7 @@ This is a used textbook trading site for students. The main functions include us
 * Navicat (not required, but can easily manage the database)
 
 ## Setup & Run:
+
 
 1.	Download the all required software and install them.
 2.	Start the sql server. For windows, cd to the bin direction under the installed SQL doc, initialize and install the sql server, if you already have sql server installed, jump to the last step. Then input ‘net start mysql’. (Remember to edit the c3p0-config.xml under project\src for your own sql server host and password)
